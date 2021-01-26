@@ -24,7 +24,7 @@ Information zone represent current temperature, pressure and humidity. Moreover 
 Status zone shows current system status and status of each of three blocks.
 | Status color | Description              |
 | ------------ | ------------------------ |
-| Green        | Works finу               |
+| Green        | Works fine               |
 | Yellow       | Some problem was occured |
 | Red          | Totally broken           |
 
