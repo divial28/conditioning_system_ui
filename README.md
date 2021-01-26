@@ -23,6 +23,7 @@ Information zone represent current temperature, pressure and humidity. Moreover 
 
 Status zone shows current system status and status of each of three blocks.
 | Status color | Description              |
+| ------------ | ------------------------ |
 | Green        | Works finу               |
 | Yellow       | Some problem was occured |
 | Red          | Totally broken           |
@@ -32,4 +33,4 @@ Status zone shows current system status and status of each of three blocks.
 Connection is automatic. Conrol UI request all data from system on bootup so you don't need to fo anything. If something goes wrong (status indicators are gray/black) you need to do the following:
 * make sure the built-in interface of the air conditioner is working,
 * make sure that nothing in your network takes port 5555 which is used to connect remote control with system,
-* reboot application
+* reboot application.
